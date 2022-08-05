@@ -1,0 +1,799 @@
+.dropdown-item.active, .dropdown-item:active{
+    background-color: #8080802b !important;
+}
+.arrange-left{
+    text-align: left;
+}
+.page-header-heading{
+    font-weight: 900 !important;
+}
+.page-header-subtext{
+    margin-top: 10px;
+    font-size: 16px !important;
+}
+.auction-section{
+    padding-top: 70px;
+}
+.asix-padding{
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+}
+.asix-padding-left{
+    padding-left: 10px;
+}
+.asix-padding-right{
+    padding-right: 10px;
+}
+.asix-padding-20{
+    padding: 20px;
+}
+.asix-padding-foot{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.nft-name{
+    font-size: 16px;
+}
+.nft-price{
+    color: #c7c7c7 !important;
+}
+.asix-normal-text{
+    color: #c7c7c7;
+}
+.asix-btn{
+    border: solid 1px #BF18DA;
+    border-radius: 13px;
+    color: #BF18DA;
+    background: none;
+    padding: 0 2rem !important;
+}
+.asix-round{
+    border-radius: 14px;
+}
+.asix-btn-padding{
+    padding: 10px 15px;
+}
+.asix-flex{
+    display: flex;
+}
+.asix-space-between{
+    justify-content: space-between;
+}
+.asix-bid-info{
+    font-size: 14px;
+}
+.asix-gap-t{
+    margin-top: 20px;
+}
+.asix-news-item{
+    padding: 0 !important;
+}
+.asix-news-item .nft-thumb{
+    margin-bottom: 0 !important;
+}
+.nft-item .nft-item-bottom .nft-thumb{
+    position: relative;
+}
+.nft-item .explorer-avatar-wrap{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    top: -40px;
+}
+.nft-item .explorer-avatar{
+    width: 80px !important;
+    height: 80px !important;
+    border-radius: 99px !important;
+    border: solid 3px #2a2d3a;
+}
+.asix-author{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.asix-meta p, span{
+    color: #c7c7c7;
+    font-size: 14px;
+}
+.asix-author h4{
+    font-size: 16px;
+    margin-top: 20px;
+}
+.asix-foot{
+    border-top: solid 0.5px #3a3b42;
+}
+.asix-mail-box{
+    width: 80%;
+}
+.asix-foot-header h4{
+    font-size: 16px;
+}
+.asix-foot-logo{
+    margin-bottom: 1.5em;
+}
+.asix-sc-btn{
+    margin: 10px;
+    cursor: pointer;
+}
+.asix-social-wrap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.asix-copyright{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.asix-padding-zero{
+    padding: 0 !important;
+}
+.footer-bottom .asix-normal-text{
+    margin: 0 !important;
+    text-align: center;
+}
+.collector-number{
+    background: #BF18DA;
+    border-radius: 99px;
+    position: relative;
+    top: 16px;
+    left: 16px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.asix-foot .email-btn{
+    background-image: linear-gradient(45deg, #ff006c 0%, #7400ff 100%);
+    color: #fff;
+    font-size: 0.875rem;
+    line-height: 30px;
+    padding-inline: 1rem;
+    border-radius: 13px;
+    font-weight: 700;
+    height: 40px;
+    text-transform: none;
+}
+.asix-mail-box input{
+    height: 40px !important;
+    padding: 0 !important;
+    padding-left: 20px !important;
+    font-size: 16px;
+}
+.section-sell-card{
+    margin-top: 70px;
+}
+.asix-rocket{
+    display: inline;
+}
+.asix-margin-zero{
+    margin: 0 !important;
+}
+.asix-nav-tab{
+
+}
+.asix-tab-row{
+    border-bottom: solid 1px #4F4F4F;
+}
+.asix-tab-row{
+    margin-bottom: 2em;
+}
+.create-nft-sect .row{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+.asix-tab-item{
+    color: #ffffff;
+    margin-right: 30px;
+    cursor: pointer;
+    margin-right: 30px;
+    cursor: pointer;
+    padding-bottom: 10px;
+    padding-right: 1em;
+}
+.asix-tab-active{
+    border-bottom: solid 2px #C91CC3;
+}
+.axis-upload-text{
+    color: #ffffff;
+}
+.asix-upload-img{
+    max-width: 100px;
+}
+.asix-input-item-name{
+    margin-bottom: 10px;
+    color: #cbcbcb;
+}
+.asix-price-sel{
+    position: relative;
+}
+.asix-price-sel .form-select{
+    position: absolute;
+    top: 0;
+    width: 20%;
+    right: 0;
+    text-align: right;
+}
+.input-item{
+    height: 40px;
+}
+.asix-input{
+    background: #121317;
+    color: #ffffff;
+    border: 1px solid transparent;
+    height: 40px;
+}
+.asix-input:focus{
+    background: #121317;
+    color: #ffffff;
+    border: 1px solid transparent;
+    height: 40px;
+}
+.asix-right{
+    text-align: right;
+}
+.modal-content{
+    background: #2D2E36 !important;
+}
+.modal-header{
+    border-bottom: 1px solid #383838;
+}
+.modal-footer{
+    border-top: 1px solid #383838;
+}
+.modal-title{
+    text-align: center;
+    width: 100%;
+    font-size: 1.25rem;
+}
+.modal-body p{
+    text-align: center;
+}
+.modal-footer{
+    justify-content: center;
+}
+.modal-header .btn-close{
+    display: none;
+}
+.asix-pink-fill-btn{
+    border: none;
+    color: #fff;
+    padding: 0.75em 2em;
+    border-radius: 10px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    background-image: linear-gradient(45deg, #ff006c 0%, #7400ff 100%) !important;
+    font-size: 0.875rem;
+    cursor: pointer;
+    text-align: center;
+}
+.asix-pink-fill-btn:hover{
+    background-image: linear-gradient(45deg, #f32d80 0%, #872ef5 100%);
+}
+.asix-pink-outline-btn{
+    border: none;
+    color: #fff;
+    padding: 0.75em 2em;
+    border-radius: 10px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    background: transparent;
+    border: solid 1px #ff00d6;
+    font-size: 0.875rem;
+    cursor: pointer;
+    text-align: center;
+}
+.asix-pink-outline-btn:hover{
+    background: linear-gradient(45deg, #ff006a41 0%, #7300ff52 100%);
+}
+.asix-gery-fill-btn{
+    border: none;
+    color: #fff;
+    padding: 0.25em 0.5em;
+    border-radius: 10px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    background-image: linear-gradient(45deg, #44444496 0%, #121212ba 100%);
+    font-size: 0.875rem;
+    text-align: center;
+}
+.asix-avatar{
+    max-width: 120px;
+    background: #24252d;
+    border-radius: 99px;
+    padding: 2px;
+    width: 120px;
+    height: 120px;
+}
+.asix-avatar-wrap{
+    position: absolute;
+    text-align: center;
+    bottom: -60px;
+}
+.asix-profile-banner{
+    position: relative;
+}
+.asix-vertical-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.asix-mt-40{
+    margin-top: 40px !important;
+}
+.asix-mt-20{
+    margin-top: 20px !important;
+}
+.asix-mt-10{
+    margin-top: 10px;
+}
+.asix-mt-5{
+    margin-top: 5px;
+}
+.asix-mb-20{
+    margin-bottom: 20px;
+}
+.asix-mb-30{
+    margin-bottom: 30px;
+}
+.asix-m-0{
+    margin: 0 !important;
+}
+.asix-ml-20{
+    margin-left: 20px;
+}
+.asix-mr-10{
+    margin-right: 10px;
+}
+.asix-divider{
+    width: 100%;
+    border-bottom: solid 1px #4f4f4f;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.asix-search-input{
+    height: 40px !important;
+}
+.asix-search-form{
+    width: 100%;
+}
+.asix-p-3p{
+    padding: 0 2%;
+}
+.asix-kind{
+    text-align: center;
+    margin: 0;
+    padding: 10px 20px;
+    background: #444444;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.asix-kind-active{ 
+    background: #bfbfbf91 !important; 
+}
+.asix-upload-doc{
+    font-size: 12px;
+    color: #cbcbcb;
+}
+.asix-w-full{
+    width: 100%;
+}
+.asix-l-border{
+    border-left: solid 1px #4f4f4f;
+}
+.asix-cursor{
+    cursor: pointer;
+}
+.avatar-name p{
+    margin: 0 !important;
+}
+.avatar-name .verify{
+    width: 15px !important;
+    height: 15px !important;
+    margin-left: 10px;
+}
+.avatar-name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.explorer-avatar-wrap .by{
+    font-size: 12px;
+    color: #8f8f8f;
+}
+.explorer-avatar-wrap .by span{
+    font-size: 14px;
+    color: #9e00a3;
+    font-weight: 700;
+}
+.explorer-avatar-wrap .link{
+    font-size: 12px;
+    color: #8f8f8f;
+}
+.explorer-avatar-wrap .link span{
+    font-size: 12px;
+    color: #9e00a3;
+    cursor: pointer;
+}
+.nft-detail .title{
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+}
+.nft-detail .from{
+    margin-bottom: 10px;
+    font-size: 0.75rem;
+}
+.nft-detail .author-profile{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.nft-detail .author-avatar{
+    border-radius: 99px;
+    border: solid 2px #0000008a;
+}
+.nft-detail .author-wrap{
+    text-align: center;
+}
+.nft-detail .author-c{
+    font-size: 12px;
+    margin-bottom: 5px !important;
+}
+.nft-detail .author-p-info{
+    margin-top: 15px;
+}
+.nft-detail .tab-content{
+    margin-top: 20px;
+}
+.nft-detail .table-h{
+    color: #a5a5a5;
+    font-size: 14px;
+    font-weight: 500;
+}
+.nft-detail .table-c{
+    color: #fafafa;
+    font-size: 14px;
+    font-weight: 500;
+}
+.wallet-inner .subtitle{
+    font-size: 14px;
+}
+.wallet-img{
+    width: 120px !important;
+    height: 120px !important;
+    background: #c9c9c9;
+    padding: 20px;
+    border-radius: 99px;
+}
+.item-desc-part{
+    padding: 24px;
+}
+.item-buy-part .nav-link{
+    color: #e6ebfa;
+}
+.item-buy-part .nav-link:hover{
+    color: #e6ebfa !important;
+    border: none !important;
+}
+.item-buy-part .nav-link.active{
+    color: #495057;
+    background-color: #ffffff24;
+    border: none;
+    color: white;
+}
+.item-buy-part .buying-btns{
+    margin-top: 40px;
+}
+.asix-card{
+    background: #2A2D3A;
+    border-radius: 10px;
+    padding: 20px 30px;
+}
+.asix-gap-1{
+    padding: 1%;
+}
+.wallet-balance-wrap{
+    display: flex;
+    align-items: center;
+}
+.wallet-balance-wrap .balance-value{
+    margin: 0;
+    margin-left: 15px;
+    font-size: 24px;
+    font-weight: 600;
+}
+.wallet-balance-wrap .balance-value span{
+    font-size: 24px;
+}
+.total-balance .fund-wallet{
+    margin-top: 20px;
+}
+.total-balance .fund-wallet p{
+    width: fit-content !important;
+    background: #24252d;
+    padding: 3px 15px;
+    border-radius: 10px;
+    font-size: 12px;
+    margin: 0;
+}
+.just-center{
+    display: flex;
+    justify-content: center;
+}
+.stacking-section .section-header{
+    border: none !important;
+    padding: 0 !important;
+}
+.collectable .section-header{
+    border: none !important;
+    padding: 0 !important;
+}
+.asix-pt-0{
+    padding-top: 10 !important;
+}
+.asix-pb-0{
+    padding-bottom: 10 !important;
+}
+.search-history .form-control{
+    border: none !important;
+    background-color: #2D2E36 !important;
+    border-bottom-right-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+    color: white;
+}
+.search-history .input-group-text{
+    background-color: #2d2e36;
+    border: none;
+    border-top-left-radius: 10px !important;
+    border-bottom-left-radius: 10px !important;
+}
+.search-history{
+    max-width: 180px;
+    min-width: 100px;
+    height: 40px;
+    margin-top: 5px;
+}
+.asix-flex-between{
+    display: flex;
+    justify-content: space-between;
+}
+.asix-flex{
+    display: flex;
+}
+.search-field{
+    max-width: 180px;
+    min-width: 100px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.search-field .form-control{
+    border: none !important;
+    background-color: #2D2E36 !important;
+    border-top-left-radius: 10px !important;
+    border-bottom-left-radius: 10px !important;
+    color: white;
+}
+.search-field .input-group-text{
+    background-color: #2d2e36;
+    border: none;
+    border-bottom-right-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+}
+.asix-over{
+    overflow-x: auto;
+}
+.history-sort{
+    margin-top: 5px;
+    margin-left: 5px;
+    height: 40px;
+    border-radius: 10px;
+    background: #2d2e36;
+    color: #62737d;
+}
+.h-t-name{
+    width: 20%;
+    min-width: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.h-t-des{
+    width: 20%;
+    min-width: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.h-t-price{
+    width: 20%;
+    min-width: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.h-t-status{
+    width: 20%;
+    min-width: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.h-t-period{
+    width: 20%;
+    min-width: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.h-center{
+    text-align: center;
+}
+.table-font{
+    font-size: 14px;
+}
+.table-h{
+    padding: 10px;
+    background: #2d2e36;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.table-b{
+    margin-top: 10px;
+    padding: 10px;
+    background: #2d2e36;
+}
+.t-avatar{
+    margin-right: 10px;
+    width: 36px;
+    height: 36px;
+    border-radius: 99px;
+}
+.history-min-w{
+    min-width: 850px;
+}
+.history-section .row{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.status-poly-red{
+    width: 14px;
+    height: 14px;
+    background: white;
+    margin-right: 6px;
+    border-radius: 99px;
+    border: solid 3px red;
+}
+.status-poly-pink{
+    width: 14px;
+    height: 14px;
+    background: white;
+    margin-right: 6px;
+    border-radius: 99px;
+    border: solid 3px rgb(247, 0, 255);
+}
+.status-poly-grey{
+    width: 14px;
+    height: 14px;
+    background: white;
+    margin-right: 6px;
+    border-radius: 99px;
+    border: solid 3px rgb(102, 102, 102);
+}
+.asix-item-bid-title{
+    font-size: 24px;
+}
+.asix-icon-btn{
+    text-align: center;
+    background: #2d2e36;
+    border-radius: 5px;
+    border: solid 1px #777a70;
+    min-height: 90px;
+    min-width: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+    cursor: pointer;
+}
+.asix-icon-btn:hover{
+    background: #434449;
+}
+.icon-btn-icon{
+    font-size: 36px;
+}
+.icon-btn-name{
+    font-size: 10px;
+    margin: 0 !important;
+    margin-top: 5px !important;
+}
+.asix-royalty-user-trash{
+    padding: 8px;
+    cursor: pointer;
+}
+.nav-link{
+    color: white !important;
+}
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active{
+    background-color: #ffffff1f !important;
+}
+.avatar-box{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.avatar-box .edit-btn{
+    position: absolute;
+    width: 85px;
+    bottom: 0;
+    display: flex;
+    justify-content: end;
+}
+.avatar-box .edit-btn .icon-btn{
+    background: #bfbfbf;
+    height: 24px;
+    width: 24px;
+    border-radius: 99px;
+    border: solid 4px #24252d;
+    cursor: pointer;
+}
+.icofont-heart{
+    color: #ff0808;
+}
+.header-show{
+    display: block;
+}
+@media (max-width: 1200px){
+    .page-header-heading{
+        font-size: 32px;
+    }
+    .header-show{
+        display: none;
+    }
+}
+@media (max-width: 768px){ 
+    .arrange-left{
+        text-align: center !important;
+    }
+    .asix-padding{
+        padding-left: 2% !important;
+        padding-right: 2% !important;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .asix-padding-foot{
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+    .asix-mail-box{
+        width: 100%;
+    }
+    .asix-rocket{
+        display: none;
+    }
+    .padding-top{
+        padding-top: 10px !important;
+    }
+    .asix-price-sel .form-select{
+        width: 45%;
+    }
+    .asix-l-border{
+        border: none !important;
+    }
+    .asix-gap-1{
+        padding: 2%;
+    }
+}
+.swiper-slide{
+    min-width: 280px !important
+}

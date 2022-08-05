@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "title":"Create Account",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ac in id ut dolor amet urna ipsum venenatis, turpis. Curabitur gravida dictum vitae interdumvolutpat. Porttitor hendrerit magna tristique.",
+        "image":"assets/images/asix/account.png"
+    },
+    {
+        "id":2,
+        "title":"Set Up Your Wallet",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ac in id ut dolor amet urna ipsum venenatis, turpis. Curabitur gravida dictum vitae interdumvolutpat. Porttitor hendrerit magna tristique.",
+        "image":"assets/images/asix/wallet.png"
+    },
+    {
+        "id":3,
+        "title":"Create Your Collection",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ac in id ut dolor amet urna ipsum venenatis, turpis. Curabitur gravida dictum vitae interdumvolutpat. Porttitor hendrerit magna tristique.",
+        "image":"assets/images/asix/collection.png"
+    },
+    {
+        "id":4,
+        "title":"Get Node Licence",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ac in id ut dolor amet urna ipsum venenatis, turpis. Curabitur gravida dictum vitae interdumvolutpat. Porttitor hendrerit magna tristique.",
+        "image":"assets/images/asix/license.png"
+    },
+    {
+        "id":5,
+        "title":"Add Your NFTs",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ac in id ut dolor amet urna ipsum venenatis, turpis. Curabitur gravida dictum vitae interdumvolutpat. Porttitor hendrerit magna tristique.",
+        "image":"assets/images/asix/art.png"
+    },
+    {
+        "id":6,
+        "title":"List them for sale",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ac in id ut dolor amet urna ipsum venenatis, turpis. Curabitur gravida dictum vitae interdumvolutpat. Porttitor hendrerit magna tristique.",
+        "image":"assets/images/asix/sale.png"
+    }
+
+]
